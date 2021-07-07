@@ -6,7 +6,7 @@
 
 :footprints: 行为型模式：类和对象如何交互，及划分责任和算法。
 
-<img src="C:\Users\Venture\Desktop\git Repo\JavaDesignPattern\README.assets\401339-20170928225241215-295252070.png" alt="img" style="zoom:67%;" />
+![401339-20170928225241215-295252070.png](https://github.com/VentureQ/JavaDesignPattern/blob/main/README.assets/401339-20170928225241215-295252070.png?raw=true)
 
 ------
 
