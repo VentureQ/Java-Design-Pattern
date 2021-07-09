@@ -24,7 +24,7 @@
 
 6.适配器模式的概念及Java实现
 
-7.装饰者模式的概念及Java实现
+[7.装饰者模式的概念及Java实现](https://github.com/VentureQ/Java-Design-Pattern/blob/main/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%A3%85%E9%A5%B0%E8%80%85%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8AJava%E5%AE%9E%E7%8E%B0.md)
 
 8.代理模式的概念及Java实现
 
