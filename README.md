@@ -28,7 +28,7 @@
 
 [8.代理模式的概念及Java实现](https://github.com/VentureQ/Java-Design-Pattern/blob/main/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8AJava%E5%AE%9E%E7%8E%B0.md)
 
-9.外观模式的概念及Java实现
+[9.外观模式的概念及Java实现](https://github.com/VentureQ/Java-Design-Pattern/blob/main/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8AJava%E5%AE%9E%E7%8E%B0.md)
 
 10.桥接模式的概念及Java实现
 
