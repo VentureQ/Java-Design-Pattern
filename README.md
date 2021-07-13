@@ -38,7 +38,7 @@
 
 13.策略模式的概念及Java实现
 
-14.模板方法模式的概念及Java实现
+[14.模板方法模式的概念及Java实现](https://github.com/VentureQ/Java-Design-Pattern/blob/main/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8AJava%E5%AE%9E%E7%8E%B0.md)
 
 [15.观察者模式的概念及Java实现](https://github.com/VentureQ/Java-Design-Pattern/blob/main/23%E7%A7%8D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%A6%82%E5%BF%B5%E5%8F%8AJava%E5%AE%9E%E7%8E%B0.md)
 
